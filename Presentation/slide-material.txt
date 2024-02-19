@@ -1,3 +1,9 @@
+Quotes:
+Human beings are inconsistant and paradoxical.
+1) We hope for peace and prosperity but continually invent new ways to destroy each other.
+2) we are capable of the kindest , most noblest acts ; and the most horrific atrocities.
+
+
 5 points presentation
 
 https://www.youtube.com/watch?v=waSuDm0CXpk
@@ -8,6 +14,14 @@ lot of pictures
 https://pixabay.com/
 https://icons8.com/
 http://www.free-powerpoint-templates-design.com
+https://www.istockphoto.com/search/2/image?assetfiletype=eps&family=creative&phrase=credit%20is%20good
+https://www.freepik.com/
+
+( best templates)
+https://www.presentationgo.com/presentation/category/graphics-metaphors/
+https://www.presentationgo.com/presentation/doodle-octagon-process-powerpoint-google-slides/
+https://www.slideegg.com/free-powerpoint-templates
+https://slidemodel.com/free-powerpoint-templates/free-arrow-options-diagram-powerpoint/
 
 
 
@@ -17,3 +31,854 @@ https://awealthofcommonsense.com/2013/09/ray-dalio-explains-credit-cycle/
 
 https://www.theinvestorspodcast.com/articles/how-the-economic-machine-works/
 https://auresnotes.com/summary-how-the-economic-machine-works-ray-dalio/ 
+
+https://thismatter.com/
+
+long term debt cycle
+https://getmoneyrich.com/economy-and-long-term-debt-cycle/
+
+nice blog ( many financial topics by Mani)
+https://getmoneyrich.com/
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fcourses-images%2Fwp-content%2Fuploads%2Fsites%2F5696%2F2021%2F11%2F19233859%2FCartoon-3.png&tbnid=6KDfwDfkuza6sM&vet=10CAIQxiAoAGoXChMIwIPU0KyrgwMVAAAAAB0AAAAAEAY..i&imgrefurl=https%3A%2F%2Fcourses.lumenlearning.com%2Fwm-ushistory2%2Fchapter%2Fmodule-8-assignment-depression-era-political-cartoons%2F&docid=Sm17JlXF1kyzwM&w=948&h=1202&itg=1&q=economic%20depression%20clipart&client=avast-a-1&ved=0CAIQxiAoAGoXChMIwIPU0KyrgwMVAAAAAB0AAAAAEAY#imgrc=dTrYiIHAgqCv0M&imgdii=rOntFlGmVIZF3M
+
+---
+Slide Material
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 3
+
+What is Economy?
+-
+
+World has limited set of resources and humans have unlimited wants , so decision must be taken wisely and judiciously.
+Study of economics basically analyze how resources are allocated for production, distribution, and consumption.
+
+For any economy the end goal is growth and stability and for that its important to take wise and thoughtful decision..why?? cos if not taken it can lead to fall of the economy and what happens when economy falls?
+-- Just like when we fall sick , we feel weak , similary country feel week when economy falls..input and output are not in balance of us during sick..similarly demand - supply not in balance
+-- Inflation and deflation , unemplyment
+-- Gap increase in different sectors( rich vs poor)
+-- Social tension ( ex: we see it happened in World War 2, how Hitler rose to power and lead to the war)
+
+
+2 branches broadly :
+1) Micro --> focuses on the choices of individuals and businesses..for ex: if the seller raise a price of good then how will the buyer respond
+2) Macro --> behavior of an overall economy, which encompasses markets, businesses, consumers, and governments . inflation, price levels, rate of economic growth, national income, gross domestic product (GDP), and changes in unemployment
+
+Why to study economics?
+-- impacts directly to society where we live.( if we need to live away from society like as monks then economy doesnt affect us directly)
+-- whatever field of work we do like business , IT company , private/public sector , Field of research / scientist/ defense..ultimately all these under a broader scale comes under the field of economics . Flow of money for all these business are linked to each other( how ? --> Govt , will discuss later slides)
+-- Economics provides the insights and analytical framework required to understand the way our world operates
+
+Financial Point of view
+-- If we need to understand , taxes , interest rates fluctuation ( Home loans IR , personal Loans IR , inflation , GDP Growth etc.. ). we need to take a deeper dive into country economy.
+
+But before that we need to understand what is economy made up of and how it works. Also important to study Debt Cycles which forms the core part of any country's economy
+Not go into too much details , else will get boring instead focusses on the actions as what we humans and how does it affect the overall economy of country.
+Have tried to keep it simple so that can be understand even for those who dont have much idea about economy
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 4
+
+Economics broken down into sectors
+To make it easier to understand the economy , economist ( people who study economy) has broken down into different sectors / groups and its important to know how these groups interact with each other (dependency)
+at the same time analyzing these sectors will help us to know how the economy is performing overall.
+How are these sectors created? --> by grouping companies that performs similar activities. 
+
+1) ex: before we produce anything , we need Raw material and this is called as primary sector ( first stage) --> mining , agriculture , forestry ,..
+2) similarly we have other sectors like manufacturing , processing , constrcution..second stage --> automobile , textile , chemical, aerospace , ship bulding ...
+3) and then we have tertiary sector --> services , marketing , entertainment , tourism , insurance , legal , health care etc..
+4) 4th sector includes those who are engaged in intellectual , research , tech advancement..ex: research and development ( DRDO , defence research and dev Org) , IT , edcuation..
+
+Another analogy( a more simple one) is think of this as a big game --> major players are 
+1) Household ( people like us , consumers)
+2) Business ( Produccers , people who wants to sell their product , goods and offer services as well.
+3) Government ( biggest player) --> makes sure there is no cheating , rules and regulate these transactions that happens between producers - consumers
+
+
+In each sector , we need to understand the building blocks is Transactions..and every transaction ( same or diff types) is performed million / billion times to form a cycle..
+
+In coming slides , we will understand more about what these transactions , who performs it ( in general) .. what are the effects ( basicallly the input / output of each transaction)..
+
+And when we are analyzing an economy , we need to understand how fast its growing or whether its growing or not.. Here concept of prod growth
+
+1) Productivity growth --> rate at which we are producing goods and services ( increase in the value of output for a given level of inputs).
+higher rate --> more growth --> developed economy( vice - versa) . Its important to correctly analyze the growth ( be fair and dont hide). We will see how people behaviour/habits have on the prod growth 
+
+Debt Cycles ( Important Concept)
+Due to debt (credit), our economy’s progress happens in cycles. Why we are referring it as “cycles”? Because a set of events in an economy, tends to repeat itself over and over again in both long and short term.
+
+This kind of cycles happes almost in every aspeect of economoy and finance sector ( business , investment etc..)
+For ex: 
+1) in business - we have startups , where we see an upwards trend of growth in the beginning ( this is called - expansion). We hire more people and increase our productivity . peolpe are motivated as things are being built.
+Positive economic indicators such as employment, income, output, wages, profits, demand, and supply of goods and services. Debtors are generally paying their debts on time, the velocity of the money supply is high, and investment is high
+
+2) Peak - The economy then reaches a saturation point, or peak, which is the second stage of the business cycle. The maximum limit of growth is attained. The economic indicators do not grow further and are at their highest. Prices are at their peak. This stage marks the reversal point in the trend of economic growth. Consumers tend to restructure their budgets at this point.
+
+3) Recession - The recession is the stage that follows the peak phase. The demand for goods and services starts declining rapidly and steadily in this phase. Producers do not notice the decrease in demand instantly and go on producing, which creates a situation of excess supply in the market. 
+
+4) Recovery phase -
+In this phase, there is a turnaround in the economy, and it begins to recover from the negative growth rate. Demand starts to pick up due to low prices and, consequently, supply begins to increase. The population develops a positive attitude towards investment and employment and production starts increasing. Employment begins to rise 
+
+Time Duration
+2) Short term debt cycle --> Cycle or repetition of pattern which we see in the economy of the nation over smaller period of time.
+3) Long term debt cycle --> Cycle or repetition of pattern which we see in the economy of the nation over longer period of time.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 5
+
+Major players and components in the economy
+
+1) Transactions
+
+-- Smallest building blocks.
+
+lets understand through a use case:
+
+ex: we go to restaurant and spend money to purchase food. ( this is one trnsaction) . family as the household ( client) and restaurant ( seller).
+Restaurant again has to give tax to govt ( this is another trnsaction)
+
+Price is important cos that determines our purchasing power in the transaction . If we dont know the price of a commodity , we can simple define it as total cost or spending/ quantity. This price provides how much that good is valued in the economy..
+
+What is demand?? --> consumer's desire to purchase goods and services and willingness to pay a specific price for them. better the product , more demand
+What is Supply?? --> also called as capacity .. Amount of a resource that firms, producers, labourers, providers of financial assets, are willing and able to provide to the marketplace or to an individual
+
+--relation between demand and supply is important--
+price and demand is inversily proportional ..high price / less demand and vice versa..
+Demand and Supply -- directly proportional
+
+Understand this is in general concept , this effect can be altered due to many factors like shortage , Natural Calamities..
+
+market equilibrium --> the state in which market supply and demand balance each other, and as a result prices become stable. Generally, an over-supply of goods or services causes prices to go down, which results in higher demand—while an under-supply or shortage causes prices to go up resulting in less demand
+
+Just like this there are millions of trnsactions happening around teh world that drives the economy. As long as we understand these transactions , we understand economy .
+
+====2) Market=====
+
+A market is a place where parties can gather to facilitate the exchange of goods and services.
+The parties involved are usually buyers and sellers
+The market may be physical, like a retail outlet, where people meet face-to-face, or virtual, like an online market, where there is no physical presence or contact between buyers and sellers.
+Markets establish the prices of goods and services, determined by supply and demand.
+
+Based on the types of product being sold , markets are created accordingly.
+like wheat , stocks , oil , fishery , metal , car..
+
+DIfferent types of marklets :
+1) Auction Market --> The buyers or bidders try to top each other for the purchase price. The items for sale go to the highest bidder
+2) Financial Market -->  securities, currencies, and bonds are traded between two parties. These markets are the basis of capitalist societies, providing capital formation and liquidity for businesses. They can be physical or virtual.
+	-- what is capitalist society ?? Demand , supply is controlled by private actors / institutions which is in the best interest of society
+3) 	Regulating Markets --> most markets are subject to rules and regulations set by governing body that determines the market’s nature. This may be the case when the regulation is as wide-reaching and as widely recognized as an international trade agreement 
+4) other markets like black market / under ground market -> illegal exchange of goods / services
+	
+======3) Government ( Biggest player in economy)======
+
+The government also plays the role of the economy manager.
+we saw earlier , household and business interacting with each other , then there must be someone to control that interaction else it can easiily be abused.( we call it as corruption)
+
+It has 2 major parts :
+1) Central Govt 
+	--Collect taxes from individuals and firms.
+	-- They spend the money collected from taxes on society..
+	They also create policies:
+		-- monetory policy --> as the name suggest , this is to contyrol the money supply to influence the econ activity.
+		-- Fiscal Policy --> these policies are used to spend the money ( collected as taxes)
+			-- This is to meet econ goals like GDP growth.
+	-- to provide unemployment ( how ?? by creating new projects within economy)
+	
+2) Central Bank
+	-- Currency regulator : Central banks possess the exclusive right to manufacture notes in an economy. All the central banks across the world are involved in issuing notes to the economy . Earlier all the banks were allowed to publish their own notes which resulted in a disorganised economy. To avoid this situation the government around the world authorised the central banks to function as the issuer of currency,
+	
+	-- Bank to the government -- The central bank accepts deposits and issues funds to the government. It is also involved in making and receiving payments for the government. Central banks also offer short term loans to the government in order to recover from bad phases in the economy.
+	at the same time , it also advises the central givt in formulation of the fiscal policies
+	
+	-- lender of last resort -- The central bank acts as a lender of last resort by providing money to its member banks in times of cash crunch. This is regarded as one of the most crucial functions of the central bank wherein it helps in protecting the financial structure of the economy from collapsing.
+	
+	-- Controlling interest rate
+	
+======4) Money Lending======
+Lending is the process by which a financial institution provides funds to a borrower. 
+1) Think of lenders as individuals / institutions who have enough money and they want to make more money by lending it to the borrowers.
+	-- how do they make money , by charging interest on the money they lend ( banks are the biggest lenders ( they lend to comon public and to govt and other financial institutions as well)
+2) Borrowers are those who are in need of money , it can be for anything like setting up a new business.
+	
+Why is money lending important for economy??
+1) Increased economic growth:
+-- By lending money , borrowers can setup new business within economy that will increase the overall cash flow in the economy.
+
+2) Increase Employment:
+-- as new businesses are setup , employment opportunities are created.
+
+3) rdeuces borrowing cost
+	-- Banks have the option to charge low IR on loans to companies. Why do they do that?? cos with Low IR, more money can be borrowed that will lead to business growth overtime..
+	once the business grow , banks have the opportunities to re-invest back into teh same business leading to econ growth. from consumer point of view it also benefir , cos this is leading to business growth.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 6 - credit and debt
+
+credit refers to the trust or borrowing capacity extended to individuals or entities ( in simple words its the giving of buying power). for ex: when we buy something based on credit , then money is not given / re-imbursed immediately but a promise is made to give it at later time.
+
+Few Perspective on credit:
+1) Clearly giving the ability / power to make purchases is a good thing( and not providing the power to buy things can be a bad thing). For ex: if there is very little credit provided to development , then that will lead to less development. The problem with credit arises when there is inability to pay it back. Who will decide the ability to pay it back or who can control that ability? the individual ( meaning , if individual is confident enough to make right and productive decision using that credit , then he will get the desired output and debt that has created can be paid back using the output generated)
+
+2) Is it good to have less credit than more credit?
+-- its not necessary true. Lets dive into this.
+From common man perspective, having a less loan / debt is good. But think of it in this way , if you need to educate your children and you have the right intention to do it and children also are intelligent enough and deserving , wont you take much credit and make them study in a good institution ( why education matters and is valued). So in this case , if you are not given enough credit , you are actually shutting down an opportunity for these children and for your self. There can be a similar case opposite to it. Like if we make them educated , we are not only making their lives worthwhile but at the same time also helping the society as a whole. Plus we are reducing the crime rate and cost of incarceration( putting people in Jail).
+-- Whether or not credit is good / bad , depends upon whether the borrowed money is used productivily enough or not.
+
+3) If lending standards are too high or too tight , that they require near certainaity ( 100 % confidence) of being paid back , that leads to fewer debt problems ( whcih is a good thing) but at the same time , leads to lower develpment. People are hesitant to even come forward even if they have an idea for development.
+
+
+Debt : It is the actual financial obligation or duty of the borrower resulting from utilizing that credit.
+
+Now if the trust on the borrower is more , its credit is good( menaing he can borrow more money) and vice versa. A reliable borrower. its not the amount that we have borrowed but the ability to borrow based on one's credit worthiness..
+
+When it comes to debt , it more like loan in the sense When someone takes out a loan, they incur a debt to the lender. The borrower is obligated to repay the borrowed amount, often with interest, over a specified period of time.
+
+Use case: 
+1) to borrow book from library
+	1) we have a library card ( authentication) for borrowing books
+	2) Credit:
+	As a member of the library, you have access to credit in the form of borrowing books. The library extends credit to you, allowing you to take books home without upfront payment. This credit represents the trust placed in you as a member to borrow books and return them within the specified borrowing period.
+
+	3) Debt:
+	When you borrow a book from the library, you incur a debt to the library. This debt represents your obligation to return the book within the agreed-upon timeframe. Until you return the book, you have a debt to the library for that specific item. Once you return the book in good condition, your debt to the library is settled.
+	
+2) Car Loan
+		Credit:
+		You approach a bank or a financial institution for a car loan. After reviewing your creditworthiness, income, and other factors, the bank approves your loan application. The bank extends credit to you by granting you a loan of ₹5,00,000. This credit represents the financial trust placed in you to borrow the required amount to purchase the car.
+
+		Debt:
+		With the approval and disbursement of the loan, you now have a debt of ₹5,00,000. This debt is the financial obligation you owe to the bank. It represents the actual amount borrowed to buy the car. 
+		
+3) Business purchases for Raw material
+	Credit:
+	You approach a supplier you have been working with for some time. Based on your business relationship and creditworthiness, the supplier offers you a credit arrangement. They allow you to take the necessary raw materials worth ₹50,000 without making an immediate payment. This credit extended by the supplier represents their trust in your ability to repay the amount at a later date.
+
+	Debt:
+	After receiving the raw materials on credit, you now have a debt of ₹50,000 to the supplier. This debt represents the financial obligation you owe to the supplier for the materials you received. It signifies the actual amount you borrowed from the supplier to fulfill your business needs.
+
+credit Utilization
+percentage of your available credit that you are currently using. It is an important factor that impacts your credit score.
+Suppose you have a credit card with a credit limit of ₹1,00,000. Currently, your outstanding balance on the card is ₹30,000. In this scenario, your credit utilization is calculated by dividing your outstanding balance (₹30,000) by your credit limit (₹1,00,000) and multiplying by 100. So, your credit utilization, in this case, is 30% (₹30,000 / ₹1,00,000 * 100).
+
+Taking a hypothetical case here , how credit drives the economy:
+1) a person goes to shop to buy a televisiobn
+2) There is a money transaction , where we get teh product and seller gets the amount of money( value of television). This transaction is settled then and there.
+3) Now the above transaction will have a ripple effect and creates more such transactions within society..how??
+4) Lets say the money which seller has got , he uses it to send his kids to school.
+	-- so we have school fees.
+	-- books to be purchased.
+	-- uniforms to be purchased.
+	--Each transaction above is done with different counterparties and is increasing.
+5) SImilarly apart from school , he also uses it for other house hold puchases right.. that again causes more transactions.
+6)So we can say , every rupee / dollar you earn , someone has spent and every rupee / dollar you spend , someone earns it. ( One person income is another person spending)
+7) now lets say , your income / salary has increased.
+	-- Now you will get a bigger televsiion( 32 ->64 inches)
+	-- With increase in money , seller can also spend more.
+8) Here we are considering only monetory transaction. Now include credit on top of these.
+	--When you are buying televsion , 90% cash , 10% credit.
+	--Based on the ripple effect , this credt will slowly increase , as it goes to different people.
+
+
+why is credit imp for economy?
+	1) Borrowers get money using credit
+	2) with borrowed money , spending is increased in teh economy  ( spending drives the economy) .. why???
+	3) one person spending is another person income.
+	4) With increase in credit , it leads to more transations within the economy leading to econ growth
+	
+Why do have cycles in the economy now??
+we need to understand , that whereever there is expansion , there will be contraction. Its law of nature. we cant evade that. 
+Similarly we have cycles in economy , buying something you cant afford means spending more than you make. You are not just borrowing from your lender ; you are borrowing from your future self.
+Essentially you are creating a time in future in which you will need to spend less than you make so that you can pay it back.This pattern , of borrowing , spending more than you make, and then having to spend less than you make resembles like a cycle. This is not only true for economy , but as a life itself , individual. And overtime when these cycles of expansion and contraction keeps repeating then conditions of crises ( big or small) are created. imagine a Balloon , you keep inflating it / delfating it..at one pt of time it will burst.
+
+As said earlier , borrowing money sets a mechanical , predictable series of events into motion.
+
+When we were kids , there used to be a game called as monopoly game: If anyone has played this game , we can very well understand how credit cycle works on the level of whole economy.
+-- In the start of the game , everyone has same amoutn of cash( fake money). As they start playing , people start buying properties, when other player land on those properties , they have to pay the rent. So in the start of the game --> we see its the properties that matters( property is the King)..similarly as the game progresses , people money start getting reduced ..why??cos if you dont earn a property , then you dont have source of income. So in the latter part of the game its the money that matters ( Money is the King).
+Now if we include bank as well as one of the player in the game who can lend money / credit to other players and also players can buy properties from other players using borrowed money or credit then thats the perfect model for economy.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 7 - Cycle continues
+1) As income increase , people feel rich. Their purchasing power is increased.
+2) at the same time , thier credit score also increases ( cos they are able to repay theit debts due ot increased income)
+	-- credit score used by financial institution using which they need to decide the IR to be charged to borrower.	
+	
+3) With inrease in credit score ,poeple are able to borrow more ( at the same time lenders are willing to lend more to usch borowers)
+4) Every dolloa you have earned , someone as spend and vice versa.
+5) This makes us credit worthy borrowers
+	--what is credit worthy borrower??
+		-- They have enough money to repay their debt anytime.( due to increase in income)
+		-- in case they are unable to repay using cash / money , then they have enough collateral to sell and repay the loan.
+		
+This leads to econ growth and thats why we have cycles in econ. Hold on to this thought and we will look into later in the session during debt cycles.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 8 - Productivity Growth
+
+Perhaps the most important thing for economy and for the matter of fact in general for all kinds of businesses as well.
+
+A country’s ability to improve its standard of living depends almost entirely on its ability to raise its output per worker (i.e., producing more goods and services for a given number of hours of work). This, in turn, is used to forecast business cycles and predict future levels of GDP growth
+
+High productivity growth
+
+As we know economy is made of transactions, ie. nothing but Buy -> Sell. To sell more you first need to produce more and to buy more you need to have a higher purchasing power ( money + credit).
+when we produce more , our capacity increases and business expands. and how do we produce more?? we must have an active workforce and better managers..
+we need to understand here , if we hire fast learning people who are proactive and more intuitive , they will be able to produce more output when compared to general public. At the same time its very important to have them motivated ( which we will see later in the session).
+
+There are few basic ways to increase the productity:
+
+1) Tasks breakdown : When we have a marathon tasks , its important we must breakdown into simple smaller sub tasks . For ex: if we need to climb a mountain ( Mt. Everest , we need not to worry how we will reach on the top instead focus on the next step which we are going to take.)
+
+2) Priority : Very important to prioritizwe tasks , if there are lot of tasks in your plate.
+				Focus on high-priority tasks
+					There is a very famous Eisenhower Matrix that states 4 steps:
+						Do: Do this task now.
+						Decide: Schedule a time to do it.
+						Delegate: Who can do it for you?
+						Eliminate: Eliminate it.
+3) Reserve 20% of your day for important tasks ( 80/20 rule for success)
+
+4) Clean your workspace:
+	a) Here by workspace we mean where you are producing your output.
+	b) for instance , we are writing code, its important to write clean code , and make sure to handle different use cases as well. not going to technical.
+
+5) Minimize distractions: There will always be distractions around you , but you need to keep your focus always. like for ex: your phone is teh biggest distraction. or we keep our inbox always open , so we see a new mail and gets distracted.( not saying we should not keep it open , but dont let it distarct your work)
+
+6) Have a plan for meetings: ( be open and brainstorm with your team)
+While most meetings don't necessarily have an agenda, it's a good idea to write down in advance what you want to cover at the meeting. Try to limit it to three items or less, and send out notes after the meeting so everyone who attended knows what they're responsible for handling
+
+7)Get quality sleep
+Quality sleep gives you the ability to focus effectively and accomplish more during the day.
+
+8) Have a morning routine ( like exercise , meditation , reading etc..) and Prepare the night before ( like what you are going to do tomorrow
+
+9) Take calculated breaks in between
+
+
+--Low productivity growth -- 
+
+Now what happens when we have inactive workforce??? we produce less.
+
+There are few terms which would like ot share which is very common in IT industry these days:
+1) Intellectual Slothism
+	This is something that a lot of people struggle with - being smart but also feeling too lazy to take advantage of their intelligence.
+	
+	You spend hours online looking to be “entertained” with games and social media sites that do nothing to challenge the mind or enhance your own growth.
+	You avoid joining or participating in conversations about new and challenging ideas /concepts.
+	You have little interest in seeking information about new, confusing or complicated ideas.
+	You think in ‘black and white’ rather than ponder and investigate many sides of an issue or idea.
+	
+	The real “digital divide” is NOT between those with or without internet access; it's the GROWING GAP between people who seek to get smarter, and those who don’t.
+	
+	It's not just about avoiding work; it’s about not using your mental capabilites to the full extent due to lack of motivation or ambition. People who are affected by this kind of behavior can be characterized by procrastination, 
+	
+2) procrastination
+	Procrastination is the act of delaying or putting off tasks until the last minute, or past their deadline
+	We often assume that projects won't take as long to finish as they really will, which can lead to a false sense of security when we believe that we still have plenty of time to complete these tasks.
+	The reality is that if you wait until you're in the right frame of mind to do certain tasks (especially undesirable ones), you will probably find that the right time simply never comes along and the task never gets completed.
+	
+	Why do we procrastinate??
+		-- Overestimate how much time they have left to perform tasks
+		-- Overestimate how motivated they will be in the future ( tomorrow something may happen that will make us de-motivated)
+		-- Underestimate how long certain activities will take to complete
+		-- in some serious cases , this can also be the cause of a more serious issue ( depression , Obsessive-Compulsive Disorder (OCD)-- fear of making new mistakes or doubt yourself when you are doing the correct thing)
+
+With the above tendencies in workspace , who suffer in the end?? not only the individuals but the work as well , corporations as well and taking to next level , the whole economy.
+Business decline overtime , when we dont keep a check on workforce and output.
+That is why when we see a fault someplace , we should try to fix it then and there before it destroys everything.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 9- Debt swings
+
+Productivity Growth matters in the long run and not in the short run. Why???
+even when we ae lazy , we can improve ourselved , change our habits overtime. But if we are always lazy , then our downfall is certain.
+
+Taking an example of Ambani family right.. we know the split of Ambani brothers and downfall of one of the brothers, the question is when both the brothers are from teh same family , same upbringing , then why different end results ..why the downfall?? --> cos of different ways they handle the things. What defines their opinion?? --> our values , self - descipline , respect and kindness toward others ( not too emotional but we should not be rigid as well) ,  with whom we are spending our day-to-day lives ( if we are with sloths or lazy ppl , then we will become one overtime , so its important to choose your company wisely..)
+
+One of the brother still continues to be teh richest person in India while other is battling for its wealth in court.
+Why this case we are discussing here , cos the production growth as mentioned earlier is important but it doesnt fluctuate much in short time . meaning you wont find a person working from 2 hr / day --> 12 hr/day and prodcing more. For this chnage to happen , it will take lot of time and factors involved.
+
+So productity matters in long run , but then what matters in short run ?? --> Credit..credit matters in short term cos it helps us to consume more then we produce when we acquire it and forces us to consume less than we produce when we have to pay it back( as debt)
+
+conclusion -->  , as a borrower when you have the potential within your self , and you are able to convince your lender that you are worthy enough to be given credit to increase your production, then you will see growth immediately ..
+
+At the same time , when there is productivity growth , then we dont realize it immediately cos people are observing things on day-to-day basis or week-week..you need to increase your span of research and look at a bigger time frame like years and decades.
+
+as we will look later this fluctuation in growth due to credit / debt is divided into 2 types of cycles:
+1) short term --> 5-8-10 years ( based on country - country)
+2) Long term --> 50-75 - 100 years ( based on country - country and other factors like natural calamities like earthquales, covid , or biger events like world wars.)
+
+at the same time , whenever there is any shift in the cycle ( ie. increase in productivity , it usually doesnt happen due to technology advancement but due to credit / debt).. Why???cos the rate of tech development is slow.
+After Internet boom , we are now nearing AI ( almost after 20 years) which will again take lot more time to spread across world.. within this time , we have already seen short debt cycles like 2008 crises , 2020 crises( these 2 are prominent ones) but there are many ups and down in between..
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 10- do we really need credit
+
+Now we discussed earlier , that credit is important for economic growth , but we also know that when credit is created , debt also gets created that needs to be paid back in future ( with interest included)..
+
+we take a hypothetical case where an economy is running without credit to understand better.
+1) In this economy, only way to increase income is to increase productivity.
+2) But as we saw earlier , increase in Productivity growth takes time..it does increase but takes in lot of years to grow..rate of growth is slow..
+3) So if an economy is solely relying on Prod growth , then the measures like GDP , growth rate would be very less if its relying only on productivity growth.
+4) for ex: how many of us are capable to buy a house and pay in cash the whole amount( in some posh society or some villa , worth Rs 4-5 crore) , or even a luxury car worth Rs. 20-30 lakhs..
+	-- we defintitely need loans for that for which bank must see our credit score and provide us teh loans.
+		-- this is credit for the bank ( asset for the bank -- cos they are earning through the EMI's which we are going to give until we pay off complete amount)
+		-- while its a debt on us ( liability to pay bank)..
+		
+5) Now in this economy without credit , lets say ppl agree to continue without taking credit..do you think it will sustain??
+	-- absolutely not , why cos its human nature to get greedy and we dont have patience to wait for business to grow.we want to reach Mt. Everest in one jump..
+	-- Due to this greed and dissatisfaction of humans overtime , it affects even our Prod growth .. we get distracted and our focus also get impacted..when teh growth declines , it affects the output and economy slows down..
+	-- We blame the economy or teh govt , but we dont understand that we are part of it and somewhat responsible for the situation..
+	
+6) At this time , we start comparing ourselves , with others on the growth , and start to borrow money eventually..
+	-- as said earlier , ppl will be happy to lend anytime and they attract as well with their new schemes, why??? cos that becomes their asset.. Since we are anyways inclined to grow faster than our current situation , we agree as well to borrow without realizing the consequences..
+	-- Borrowing from others , is like borrowing from our own future ..
+		-- As long as our motives are clear and we are motivated , we can sustain and pay off the debt and grow more eventually , else we will be doomed..
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 11- Money vs credit
+
+we have seen in the above slides , how credit is important for the economic growth and how it boost up rate of growth as well in short term. But there are some subtle differences when we discuss about money and credit.
+
+1) Before we compare , these 2 , we need to understand a little bit about the history of how money came into existance.
+	--Barter system -> system where goods are directly exchanged without teh use of money. simple ex: we have 2 farmers , one has wheat and other has bread, and they are able to exhcnage this based on their wants ..win-win situation.
+
+2) however there were some difficulties. ex: if the other farmer has enough , wheat ...so he wont be ready to give away his product for exchange of wheat..
+	-- so here we have a concept called as "Double coincidence of wants"--> meaning "What a person desires to sell is exactly what the other wishes to buy" ( important feature in barter)
+	--there were other shortcoming as well
+		-- no common unit for measuring
+		--difficulty in storing certain goods over longer period of time for future exchange..
+		
+	-- that is how money as medium of exchange was created..
+
+3) But did we always have paper money?? Not really
+	-- So initially we have grains and cattle as common medium of exchange..
+	-- then we have metal coins..this was there for sometime ( till mughal period), but then it has to be evolved , why??
+		-cos the value of metals was keep on changing and that would change the value of currency / money as well right , which is not correct..at the same time , there was a cost involved in converting these metals into monetory coins as well.
+		-- plus it was not safe to carry these much coins over longer distances , it would get looted from kings and princes that time..
+	--then came paper money..issued by RBI --
+	-- again problem in transporting this cash within trains and planes within longer distances.. it further involved into demand deposits ( DD)-- cash kept in bank and canbe withdrawn anytime( there is a date / timeframe in DD within which it can be withdrawn)
+
+4) Now when we deposit money in teh bank , bank dont keep it idle , it will lend it to borowers ( ppl who are in need of cash)..and in return bank gets interest..at the same time , ppl who had kept their money they also get interest..
+	--in short bank is nothing but an intermediary( between ppl who have surplus money and those who are in need of money)
+	-- thats the very basic concept of how bank facilitate cash flow within individuals and corporarions by storing and lending money.
+	
+5) but there is a catch here ,
+	-- what if everyone wants to withdraw at the same time from bank , how will bank be able to give away that much cash since its also lending money to others????
+	-- Here the concept of cash reserve ..
+		-- Bank have a mechanism using which they keep a smal portion of the deposits with them..This is to pay the depositors who might come to withdraw money on any given day..Not all customers can withdraw at once based on that mechanism..This ratio of ppl who can withdraw is like 15-20% in India ( set by RBI)..
+	
+6) Now when banks give away the interest as well , then what bank is getting out of this?? How does it pay its employees the salary??
+	-- its simple , the ineterst they charge for taking loans is much higher than storing the money within the bank.
+		--ex: lets say home Loan --> 10% and for saving account --> 2-3 %..
+			-- this difference of 6-7 % is the income of teh bank( works as a broker basically)
+	-- we have an equiation --> m= 1/R
+		
+    m is the money multiplier
+    R is the reserve requirement
+	for ex: if you reserve only 10% of the money within bank , it creates a money supply equal to ten times the amount of reserves ( by process of lending to other banks or by securitization)
+
+			
+7)Now lets understand a little more about taking a loan , is it good or bad thing??
+	-- Good things:
+		--ppl take loans , expand their business , and pay back the loans using the profit earned by business expansion..( take an example of electronics dealer who during Diwali is selling at discounted prices to increase its sales and able to generate lot of profit.)
+	-- Bad thing
+		-- ppl who undergo loss and not able to pay of the loans.( also called as debt trap). Where ppl tend to take multiple loans to pay of their previous loans.
+			-- In India , about 80% of the farmers fall into this debt trap..
+						
+8) In all forms of money above , we are able to see the cash ( whether its in the form of metal , coins , notes). so by human psychology , when we see things literally getting reduced in front of our eyes , we tend to control our expenses..basically we might lose track of how much you’re spending when you can’t physically see how much you’re spending
+
+9) Based on many researches , those who have a history of using credit cards as a form of payment tend to overspend more than those who have a history of paying with cash or checks. At the same time , buying with credit cards activates the brain’s rewards section, motivating people to spend more. However, it’s important to remember that keeping tabs on your spending is key to making sure you don’t overdo it and receive a bill that could throw your budget off balance.
+
+10) An alternative is , we can set spending alerts on our account that will notify us once we’ve spent a certain amount
+
+11) Few things to keep an eye open when using credit cards:
+	-- Whats your interest rate is ?? That’ll determine how much it’ll cost you to carry a balance on your card
+	-- And your credit line will tell you how much credit you have available to spend. However, most experts recommend keeping your credit utilization ratio (how much you’re spending compared to the amount of credit still available) below 30 percent.
+	
+12) An important point to mention about is there is a very important Act --> Glass-Steagall Act ( 1933)
+	-- To give some back ground on it , We all know about the great depression of 1929 which affected most parts of the western world and US as well ( followed by World War 2. Post that depression , there was an ACT was passed ( called as Glass Steagal Act). This Act Forced commercial banks to refrain from investment banking activities to protect depositors from potential losses through stock speculation. Why to seperate commercial banks and investment banks?? Cos mixing activities for commercial and investment banking was considered too risky and speculative and widely considered a culprit that led to the Great Depression.
+	-- unfortunately , this ACT was elimitated in 1999 ( cos big banks thought that this was directly affecting their business and they even tried to justify that cos of this act their services were getting impacted..and govt as of that time was even in favour of these big banks).
+	-- Many economists believe that speculative and risky activities followed the elimination of Glass-Steagall ACT, including the rise in subprime lending, which led to the 2008 financial crisis.
+		-- The problem here is , even though flexibility was given in the banking sector to help facilitate the cash flow in the economy, humans misused it as usual cos of their never ending greed..
+
+13) Conclusion --> 
+	-- Credit cards can be a useful financial tool. By practicing a few good habits when using your credit card, you can ensure that you’re able to build a positive credit history for your long-term financial goals and give yourself a little extra spending power right now
+	-- Using a credit card responsibly by keeping your spending to a minimum and making on-time payments each month shows financial institutions you’re capable of managing your money and can be trusted with their money in the future should you ever need a higher credit limit or a loan
+	-- However, you shouldn’t overspend when you use your card just because you don’t feel the immediate pain of parting with your cash for purchases.
+	
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide -- 12 -- Good vs Bad credit
+
+So far we have discussed that credit is good for economy , provided its used cautiously..
+
+So, what is “good debt"?
+debt that you're able to repay responsibly based on the loan agreement can be "good debt," as a favorable payment history . In addition, "good" debt can be a loan used to finance something that will offer a good return on the investment.  Examples of good debt may include: 
+
+1) Your mortgage. 
+You borrow money to pay for a home in hopes that by the time your mortgage is paid off, your home will be worth more.  In some cases, you can deduct the interest on mortgage debt on your taxes.
+Home equity loans and home equity lines of credit — which are a type of loan in which a borrower uses his or her home as collateral – may also be considered a form of good debt.
+Be careful here , if you there is any issue overtime and you are unable to pay off your mortgage , that will put your home at risk of losing.
+
+2) Student loans 
+can be another example of “good debt.” Some student loans have lower interest rates compared to other loan types, and the interest may also be tax-deductible. You’re financing an education, which can lead to career opportunities and potentially increasing income. 
+
+3) Auto loans can be good or bad debt.
+-- ex : if you are using your vehicle to increase your income.
+
+3) To add here , most of what drives the country economy is credit that comprises of almost > 90 % of the total cash flow for most of the countries.
+
+-- Now lets see what is bad credit and when it happens:
+
+when borrower is unable to pay timely payments to lender or at times delay or default can lead to bad credit score.
+When an individual makes late payments or defaults on the payments altogether, the lender or creditor reports the information to the credit bureaus. The information is included in the individual’s credit report, which lenders and other creditors use to make decisions on whether or not to extend credit to potential borrowers
+
+Few examples where a person may have bad credit is:
+1) Credit cards, particularly cards with a high interest rate, are a typical example. If you can’t pay your credit cards in full every month, interest payments can prolong the debt.
+2) High-interest loans or unsecured loans..For ex: for landless labourers , they go to their employers and being charged higher rate of interest --> sideeffect ( higher chances of debt trap) 
+
+Few causes of bad credit:
+1. Late payments:
+
+2. Bankruptcy filing
+	--If an individual or company is unable to pay debts, they may be forced to file for bankruptcy to receive legal protection. Filing for bankruptcy is an extreme event, and it is the most damaging event to an entity’s credit score.
+	
+and whats the cause for such delayed payments:
+1) Bad habits:
+	-- ppl fall in bad habits or drug abuse , which impacts productvity overall leading to failure in life and they blame others for it without realizing that they themselves are the sole reason for their failures.
+	-- Due to ignorance or arrogance , it further pushes us to teh state of depression and unending cycle..
+	-- our moral values go down the drain-- we literally dont value the credit that we have recieved but instead 
+
+2) lazyness:
+	-- very common cause.
+	-- We take things for granted when we have ample credit in hand due to whcih our productity gets impacted.
+	
+3) intellectual slothism ( not properly motivated to reach goal) :
+	-- one of the common causes , when ppl dont value the things that they have currently , they generally lose them overtime.
+
+4) natuaral causes:
+	-- Accident
+	-- illness
+	-- family problem
+	-- natural disaster
+	-- layoff at workplace
+
+
+
+	
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide -- 13 -- Short term debt cycle - Evolution of Inflation
+
+This phase is the expansion phase where there is rise in the GDP growth.
+
+1) How GDP rises ??
+	-- Because of the increased spending, due to available credit.
+	-- Everyone who is earning in cash (like salary from job, profit from business etc), such people are credit worthy and hence can get debt.
+	-- Debt plus income increases the available capital with people. Increased capital means, increased spending power. When people are spending more in an economy, it’s GDP grows faster. Why?
+		--Because one persons spending is another persons income.
+2) This also leads to wealth distribution ( like constant cash flow within economy).
+	-- ppl are able to get loans , credit easily ( everyone is happy)
+3) Due to constant cash flow, increased spending by ppl and increase in overall economic activity. This leads to economic expansion.
+4) More ppl in the country will have sufficientt amount of money , more money in ppl hand , more spending power.
+5) At some point of time, demand ( to buy goods and services ) in the economy will takeover supply. 
+	-- This leads to imbalance between supply - demand , and that leads to shortage of goods , resources.
+6) With limited resources and high demand , leads to prise rise , ( Inflation)
+	-- That ppl spend more to get the same amount of goods / services.
+	-- But high inflation is not necessarily a bad thing always. But “excess credit” supported inflation is bad.
+	-- Here we have reached at the peak of the expansion cycle.
+	
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+Slide 14 - Cause of currency depreciation and Role of central banks
+
+This phase is called as contraction as we see the cycle reverses. ( downwards direction)
+
+1) now with price increases , ppl purchasing power has reduced. 
+	-- for ex: some real estate( like 3 BHK) whihc was avaialble at 1 crore , now its being sold at 2 crore.
+	-- at 1 crore only 2 bhk is available..
+
+2) Due to reduction in purchasing power ,inflation ,  value of money has reduced --> this leads to Currency depreciation
+	--It is the decline in the value of the currency of a particular country in comparison with other countries’ exchange rates.
+	
+3) Now no country wants its currency to depreciate wrt to other country currency , and hence to prevent the situation getting even worse , central banks has to intervene.( this is simlar to what is happening right now in US and in world , called as de-dollarization).
+	-- How do CB helps, by increasing the interest rate on borrowing / lending / loans..
+	
+4) With increased I.R , what happens to borrowing?? it is impacted and ppl think a lot to take loans , hence borrowing reduces..
+
+5) when borrowing reduces , that automatically leads to reduces spending or expenditure..
+
+6) as we know one's man spending is another mans's income , hence the cash flow reduces in teh economy , and that leads to economic slowdown..GDP , growth rate impated etc..
+	-- at the same time , whatever loans that we have taken , we find it difficult to pay them back..so cost of debt rises..delayed payments , credit score reduces , credit worthiness is impacted.
+	-- all of a sudden there is a cash crunch in teh economy and it comes to stand still.
+	
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 15 - deflation --> recession --> rise again
+
+This phase is also called as recoevery where teh cycle reverses again..
+
+before teh cycle reverses, we need to understand why credit ( debt) fuelled growth is not good for economy in long run.
+	Economy based on high debt is evil…
+		1) Debt is like easy money. If left to people (individuals, business, government), majority will finance all requirements of their life using debt. Why? Because it is easy money. People gets attracted towards easy money. It is human nature.
+
+		So what is the problem if people live on debt? There are two impacts of excess reliance on debt:
+
+			--Leads to high inflation (more money chasing less goods and services).
+			--Leads to productivity falls.
+
+		In a debt ridden economy, spending can increase exponentially. This starts pushing the inflation to dangerously high levels.
+
+		Moreover, as people are getting easy debt, they will not work harder. Hence productivity of people, in turn of the whole economy, also falls. Why we need productivity improvement?
+		-- Because productivity improvement leads to more sales, more profit, more jobs, hence more income for everyone (for all agents of economy). If productivity is not growing, eventually income will fall.
+		
+		-- There must always be a balance between income growth and debt growth in an economy. If debt is growing faster than income, it leads to high inflation rates (like in Zimbabwe recently).
+		-- Income growth will happen only from productivity improvement. People must work hard to earn more money. But debt growth happens almost automatically. Debt increases in size at the rate of interest it charges.
+		-- Consider a case, where a nation’s income size is same as debt. But due to some problems, job market is not growing, even salary increment is weak. GDP is also not growing fast enough. What will happen to such a nation? In such a nation, the growth of “pre-accumulated debt” will be faster than income growth.( like in pakistan)
+		-- Weak income growth, compared to debt growth, eventually leads to defaults in debt repayment. More People will not be able to payback their debts (EMI’s). People will start defaulting on their loans.
+		-- Then one day, business will also start defaulting on loan payments. This is a very dangerous situation. Why? Because in our modern economy, majority of money is actually credit.
+		-- People not paying back loan, eventually means someone is losing on their income. When income falls, less people will remain credit worthy. It means, less people will get loans. Spending in the economy will fall. This will further lead to fall in income for others. This starts a vicious cycle.
+
+Now coming back to the cycle stage..
+
+1) So far we know that due to inflation , economy has slowed down .. but we need to understand here that its a just a game of balance between demand and supply.
+	-- with demand going less and less , due to prise rise and depreciation, there will come a time when supply of goods and services becomes more than demand..
+	-- This is called as economic deflation
+2) since supply is greater than demand , this leads to price reduction ...
+3) This impact the real estate market , stock market etc..
+	-- for ex: same 3BHK flat which was available in 2 Cr is now available in 1Cr.
+	
+4) However due to teh economic situation in the country , ppl still continues to spend less , as I.R still high and also they are hesitant to take loans in a fear that they would be unable to pay it back.
+
+5) This leads to economic recession.
+	-- What is recession? During this phase of short term debt cycle, the economy sees a negative GDP growth rate.
+	--What triggers recession in modern economy? High interest rate regime induced by the government. Why the government increased interest rates? To control high inflation.
+	--What happen due to increased interest rate? Debt becomes costlier, and the public spending decreases. Less spending means, less income for others.
+	-- We also see high level of unemployment during recession.
+	
+6) How long will the recession last? Till the inflation comes down to acceptable levels
+	-- here the central bank has to pitch in .
+	-- CB reducs the I.R back to normal to kick start economic activity..
+	-- due to low I.R , loans are easy to avail from bank . , so ppl start borrowing more and realize its time to invest again..
+
+7) Economy slowly recovers and start to rise again bakc to normal.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 16 - short term cycle - summary
+
+Before we summarize , the short term cycle and things we learnt from it , we need to understand the Psychology of people
+
+Expansion Phase:
+	Why people tend to be more flamboyant/ exuberant( spendthrift , showoff their money) during expansion phase? Because of following things happening around them:
+		Income is growing.
+		Debt is easily available.
+		They can spend more
+	
+	Where people spend money? People generally spend money in two fronts:
+		On Liability (Like cars, TV, Gadgets, vacations etc.)
+		On Assets (Like property, stocks, mutual funds, bonds, etc.)
+
+	The flamboyance (to an extent overconfidence) creeps in when people start gathering assets. It is not the purchase of assets which gives confidence. It is the rise in value of assets which infuses overconfidence among people.
+
+	Value of assets rise steeply during economic expansion phase. People who have assets, take this as a signal of “being wealthy”. Bank’s also start offering more loans to such people. Why? Because they are taking the inflated assets as collaterals. This leads to more credit (debt) influx into the economy, means further spending.
+
+	More spending means, even more income for others . This is the reason why psychology of people are very up-beat during expansion phase.
+
+Recession Phase:
+
+	Exactly the opposite happens in recession phase. People take less debt, spending falls, asset value falls…etc	
+	
+	
+summary and things we learnt from it:
+1) in short term cycle , spending is constarined only by willingness of borrower and lender
+2) When cheaper credit is available, ppl take more credit and feel rich. leading to econ expansion.
+	-- When less credit is available, people feel poorer. Why? Because they can spend less, also their assets are valued less in these times (recession).
+3) This cycle is controlled by central bank by fluctuating the I.R.
+4) it usually lasts arounf 5-8-10 years.
+5) at every cycle , -- more growth than previous and more debt as well.
+	-- why more debt , cos ppl push it and as we discussed earlier , human nature is inclined to borrow when available to increase their spending , instead of paying back previous debt. 
+6) This is why over longer period of time , debt rises faster than income causing Long term debt cycle.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Slide 17 - Long term Debt cycle - summary
+
+In the earlier slides we saw ome of the root cause of short term debt cycles is cheap credit( also when its easy available).
+For long term debt also its one of the same reasons but its also caused by credit (excess debt accumulation in economy) , and that too over a long period of time ,
+meaning long term debt cycle , is made up of several short term debt cycles.
+
+Another point to consider , in short term when credit (debt accumulation) was too much, it caused high inflation. Hence RBI raises the interest rates, and credit falls (less debt in economy) leading to recession. Does it not mean that the debt in economy also fell during those recessions? So how in long term we can say that excess debt accumulation is happening? Yes, the debt levels fall during recessions. But still debt accumulation happens.
+
+1)Think of this analogy , as person getting sick and old age coming , like when we get sick , the harmful bacteria / virus attacks the body and causes an imbalance. 
+2) Due to this imbalance , we feel weak and our temperature rises( why temp rises?? cos our White blood cells are fighting with the infection and continuously dying inside).
+	-- if a person is strong enough , then temp will automatically comes down( body stabalizes on its own)
+		- like in olden days, ppl wre healthy due to healthy life style and medicines were consumed less.
+	-- Nowaday , due to change in liefstyle , ppl immune system is much weaker as compared to ppl who have lived before us..hence prefers to take meds ( short cuts)..
+	
+3) Every time , you get sick, think of this as a short term debt cycle , and if the country economy is strong enough then it will automaticaly balance itself with time.
+	-- if weak then we need esternal factors like bank control interest rate ( just like medicines given to humans)
+
+4) Imp point is, even though we get cured but overtime , we become old and our immune system gradualy weakens..
+	-- think of old age as long term debt cycle in economy where sickness and recovery is part of short term cycle..
+	
+5) with each cycle , the debt burden is increasing..
+		
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+Side 18 -- why it all happens and root cause..
+
+--already discussed earlier few of the things so we will not spend much time--
+
+1) Lenders are always happy to lend money ( they have only one goal in their mind --> profit)
+	-- Though profit is good( because profit leads to growth) , but then we should also have some principles to make sure we are within limits and follow rules / regulations when lending money. As customers we should have a cntrol over our tempatation.
+	
+2) PPl are ignorant --> meaning they dont really care or pay attention to things which happening around ( even though it affects us but we dont even know that)..we are interested only in those things which give instant happiness ( people patience level has reduced with time)..
+
+3) people are too busy --> we are busy with our day-to-day work. So our mind is focussed and the same. we dont have time to think on other material stuff)
+
+4) When our income increase ,we get happy and we spend too much..
+	-- for ex: real estate is the classical exmaple..
+		-- famous quote --> Necessaity is the mother of invention ( When humans wants something and they have the means to get it , they will not hesitate to spend more and go out of limits to get it..thats human nature..)
+		
+5) Due to this asset value rises.
+	-- whether you have land , flat , if tehre is someone willing to buy it due to his needs , and he has money to do it, he wont have second thought)..--> they will go for it..
+	-- we need to think here , just because we can doesnt means we should.. ( here comes the thought process and we need to be careful , and take wise decison)
+		--we must have control over our greed
+		-- famous movie ( Parking - human nature leading to life and death and root cause is greed)
+	
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+slide 19
+what is financial bubble?
+Period when current asset prices/value greatly exceed their actual valuation, (where actual value is the true value justified by the long-term fundamentals.)
+
+Whats the difference between price and value??
+Very famous quote by Warren buffet) --> Price is what you pay; value is what you get
+	-- Price is the amount that a buyer must pay to purchase a product ( MRP) -> Min retail price
+	-- Value is the worth of the product or how it affects  buyer life in return
+		-- meaning you buy a car (10 Lakhs) -- price
+		-- you use that car as rental service to earn 10 Lakh a year.-- thats the value
+
+
+Few classic examples:
+
+1)Like the situation in teh 90's during Harshad Mehta Scam
+	-- Stock brokers who wanted to enter in the market but they were not able to do it due to stringent guidelines by RBI, so they found a loophole in teh banking system and made use of it to use bank funds to deploy in teh stock market
+	-- Since it increased the money flow within banks and stock market boom in short term , hecne ppl believed it and they continued to keep pushing it.
+	-- finally the bubble burst
+	
+2) Madoff investment scandal ( Bernie madoff scandal -- 2008 crises - apart from housing crises , this was also one of the key reasons to trigger the crash)
+	-- started in 1970's and bubble burst in 2008 ( ~40 years)
+	-- there is a very good documentary on this in Netflix , would suggesst to see
+	
+Stages of bubbke:
+1) In the first stage of the bubble, debts rise faster than incomes, and they produce accelerating strong asset returns and growth.
+	-- Just like in a scam , ppl get fooled initially cos of attractive returns for short term
+	
+2) Lenders are always ready to lend and they do so how:
+	-- They should have capacity to lend and motivation/persistance to do so.
+	-- They find out borrowers incoming cashflow / income
+	-- if not income then , net worth / collateral
+	
+at the same time , people market their products very beautifully..
+
+3) Now for some time , how this bubble works??
+	-- As long as debt is lower that the income required to repay/service that debt.
+	-- and debt growth rate is slower than growth in income, this bubble will remain stable.
+	
+In short , People will  borrow more and more, but aslong as the borrowing drives growth, it is affordable.
+
+4) -- another concept is called Shadow banking --> non - bank , unregulated lending institutions takes birth and lot of financial engineering takes place)
+
+There are few examples of asset-liability mismatches that happens durung this phase:
+	a) borrowing short-term to lend long-term, 
+	b) taking on liquid liabilities to invest in illiquid assets, and 
+	c) investing in riskier debt or other risky assets with money borrowed from others, and/or 
+	d) borrowing in one currency and lending in another,
+	
+5) Another important analogy here is 
+		-- humans by nature (like most species) tend to move in crowds and weigh recent experience more heavily than is appropriate. ppl take advantage of this to exploit easy money
+
+6) --Sometimes the govt or banking system itself , helps to sustain it ( knowingly( ~could be ignorance) or unknowingly) for a long time..
+	-- how ?? by lowering interest rates.--> low spending --> lesser borrowing --> 
+	-- but this also reduces the payment done to repay the debt and eventually the debt burder will become greater/equal than the amount that can be borrwed or money that exists at that time in the system
+	-- from there on the process works in reverse and deleveraging starts..
+	
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+slide 20
+
+Here is the downfall -- 
+
+1) Fake money dissapears..
+	-- but how it happens??
+	
+		1) to start with , we know that central bank influence monetory policies in the country
+			-- what does it means?? --> set of actions that can be taken to control the supply of money in the economy.
+			
+		2) but what if ,  this policy itself is inflating the bubble??
+			-- This can happen when both inflation and productivity growth are good and investment return are high.
+			-- This reinforces investor optimism and confidence to invest more
+			-- In such cases, , central banks, focusing on inflation and growth, are often reluctant to adequately tighten money. This is whath appened in Japan in the late 1980s, and in much of the world in the late 1920s and mid-2000s.
+			
+		3) At the same time , central bank also finds it diff to spot bubbles ( as they say there role is to control inflation and growth)
+		-- But what they control is money and credit, and when that money and credit goes into debts that can’t be paid back, that has huge implications for
+		growth and inflation down the road.
+
+		4) ex: person borrowing money from one bank to pay the loan / debt to another.
+			-- this is a never ending cycle.
+
+2) When prices have been driven by a lot of leveraged buying and the market gets fully long, leveraged, andoverpriced, it becomes ripe for a reversal. This reflects a general principle: When things are so good that they can’t get better—yet everyone believes that they will get better.
+
+3) As of now , we are on top of the long term cycle and the downfall is going to start. There can be many reasons:
+		--in some cases its due to bubble iteself, meaning --> growth and inflation keeps rising and capacity conttrains are beginning to pinch( capacity Limit reached.)
+			--ex: think of it like in an office , you have limited no. of desks right..as more and more ppl come in , there comes a stage when limit is reached or about to reach, so rate of ppl inake will gradually decrease.
+		--for an economy , whenevr the debt - service squeeze happens , it hurts teh assset prices ( stock prices) which has a negative "wealth effect" as lenders begin to worry 	that they might not be able to get their cash back from those they lent it to. Borrowers are squeezed as an increasing share of their new borrowing goes to pay debt service
+		-- at this point in time , the yield curve almost gets flat or inverted ( ie. long-term interest rates are at their lowest relative to short-term interest rates), 
+		-- ppl prefer to cash rather than credit which slows down credit growth..
+		
+4) In the early stages of a bubble bursting, when stock prices fall and earnings have not yet declined, people mistakenly judge the decline as an opportunity. They find cheap stocks and buy without realiing its decline. This leads to a chain reactions and the reversal os delf - reinforcing. At this point in time seeds of depression/recession are being sown in the economy.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+slide 21 - what happens in deleveraging economy
+
+
+
+	
+
+
+
+	
+
+ 
+
+
+
+
